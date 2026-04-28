@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Jensen</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 20.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,317 Contributions in the Year 2026
+> 🏆 1,331 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -17,24 +17,24 @@
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4850 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-🌆 Daytime                9359 commits        ████████░░░░░░░░░░░░░░░░░   32.96 % 
-🌃 Evening                10225 commits       █████████░░░░░░░░░░░░░░░░   36.01 % 
-🌙 Night                  3959 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+🌞 Morning                2976 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+🌆 Daytime                6423 commits        ████████░░░░░░░░░░░░░░░░░   31.14 % 
+🌃 Evening                8169 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
+🌙 Night                  3055 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4509 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Tuesday                  4802 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Wednesday                6317 commits        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Thursday                 5367 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Friday                   4496 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Saturday                 2059 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Sunday                   843 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Monday                   3030 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Tuesday                  3350 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Wednesday                5102 commits        ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+Thursday                 3461 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Friday                   3158 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Saturday                 1809 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Sunday                   713 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 ```
 
 
@@ -44,25 +44,25 @@ Sunday                   843 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.01 % 
-YAML                     2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-Markdown                 1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Docker                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+YAML                     3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.88 % 
+Python                   2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+Markdown                 1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+SQL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-Unknown Editor           5 hrs 47 mins       ███████████████████░░░░░░   77.65 % 
-Cursor                   1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Unknown Editor           7 hrs 29 mins       ███████████████████████░░   90.99 % 
+Cursor                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 
 🐱‍💻 Projects: 
-streamline               6 hrs 47 mins       ███████████████████████░░   91.15 % 
-data-platform-ops        25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-flipside-skills-internal 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-streamline-infrastructure2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+streamline               7 hrs 12 mins       ██████████████████████░░░   87.46 % 
+streamline-snowflake     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+livequery-models         14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+flipside-skills-internal 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+data-platform-ops        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Mac                      7 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +82,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jensenity/jensenity/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2026 19:26:19 UTC
+ Last Updated on 28/04/2026 19:24:33 UTC
 <!--END_SECTION:waka-->
