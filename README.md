@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Jensen</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -20,8 +20,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4989 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-🌆 Daytime                9589 commits        ████████░░░░░░░░░░░░░░░░░   32.99 % 
+🌞 Morning                4992 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+🌆 Daytime                9589 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
 🌃 Evening                10388 commits       █████████░░░░░░░░░░░░░░░░   35.73 % 
 🌙 Night                  4104 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 ```
@@ -32,7 +32,7 @@ Monday                   4596 commits        ████░░░░░░░�
 Tuesday                  4916 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 Wednesday                6469 commits        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
 Thursday                 5524 commits        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Friday                   4584 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Friday                   4587 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 Saturday                 2086 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 Sunday                   895 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
@@ -44,25 +44,25 @@ Sunday                   895 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   3 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   38.07 % 
-YAML                     2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
-Markdown                 1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-SQL                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+YAML                     3 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.91 % 
+Python                   2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Markdown                 2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Terraform                1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Docker                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 26 mins       ██████████████████░░░░░░░   71.05 % 
-Claude Code              2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+Cursor                   6 hrs 16 mins       ████████████████░░░░░░░░░   65.77 % 
+Claude Code              3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.23 % 
 
 🐱‍💻 Projects: 
-streamline               7 hrs 26 mins       █████████████████████░░░░   82.11 % 
-solana-decoder-py        33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-solana-models            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-streamline-snowflake     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-tools                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+streamline               8 hrs 27 mins       ██████████████████████░░░   88.48 % 
+solana-decoder-py        33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+solana-models            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+data-platform-ops        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Mac                      9 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      9 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +82,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jensenity/jensenity/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 19:53:47 UTC
+ Last Updated on 21/05/2026 19:44:38 UTC
 <!--END_SECTION:waka-->
