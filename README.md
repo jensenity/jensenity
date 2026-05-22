@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Jensen</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2048%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -20,7 +18,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4992 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+🌞 Morning                4994 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
 🌆 Daytime                9589 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
 🌃 Evening                10388 commits       █████████░░░░░░░░░░░░░░░░   35.73 % 
 🌙 Night                  4104 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
@@ -32,8 +30,8 @@ Monday                   4596 commits        ████░░░░░░░�
 Tuesday                  4916 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 Wednesday                6469 commits        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
 Thursday                 5524 commits        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Friday                   4587 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Saturday                 2086 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Friday                   4589 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Saturday                 2086 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 Sunday                   895 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 
@@ -44,25 +42,25 @@ Sunday                   895 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-YAML                     3 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.91 % 
-Python                   2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-Markdown                 2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-Terraform                1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Docker                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Python                   3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+YAML                     3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+Markdown                 2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Terraform                1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 16 mins       ████████████████░░░░░░░░░   65.77 % 
-Claude Code              3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.23 % 
+Cursor                   8 hrs 42 mins       ██████████████████░░░░░░░   70.25 % 
+Claude Code              3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.75 % 
 
 🐱‍💻 Projects: 
-streamline               8 hrs 27 mins       ██████████████████████░░░   88.48 % 
-solana-decoder-py        33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-solana-models            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-data-platform-ops        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+streamline               9 hrs 53 mins       ████████████████████░░░░░   79.80 % 
+solana-models            1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+solana-decoder-py        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+data-platform-ops        12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Mac                      9 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +80,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jensenity/jensenity/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 19:44:38 UTC
+ Last Updated on 22/05/2026 19:38:27 UTC
 <!--END_SECTION:waka-->
