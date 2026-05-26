@@ -20,10 +20,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4995 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-🌆 Daytime                9590 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
+🌞 Morning                4994 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+🌆 Daytime                9589 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
 🌃 Evening                10388 commits       █████████░░░░░░░░░░░░░░░░   35.73 % 
-🌙 Night                  4104 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+🌙 Night                  4104 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
@@ -31,7 +31,7 @@
 Monday                   4596 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
 Tuesday                  4916 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 Wednesday                6469 commits        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Thursday                 5526 commits        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Thursday                 5524 commits        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
 Friday                   4589 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 Saturday                 2086 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 Sunday                   895 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
@@ -44,25 +44,23 @@ Sunday                   895 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   3 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.98 % 
-YAML                     1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Markdown                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Terraform                1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Python                   2 hrs 29 mins       ████████████░░░░░░░░░░░░░   47.77 % 
+Terraform                1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Markdown                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+YAML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Docker                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 29 mins       █████████████████░░░░░░░░   66.75 % 
-Claude Code              3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
+Claude Code              3 hrs 11 mins       ███████████████░░░░░░░░░░   61.04 % 
+Cursor                   2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   38.96 % 
 
 🐱‍💻 Projects: 
-streamline               7 hrs 14 mins       ███████████████████░░░░░░   74.42 % 
-solana-models            1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-solana-decoder-py        41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-data-platform-ops        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+streamline               4 hrs 59 mins       ████████████████████████░   95.73 % 
+data-platform-ops        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Mac                      9 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +80,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jensenity/jensenity/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2026 19:32:35 UTC
+ Last Updated on 26/05/2026 19:50:03 UTC
 <!--END_SECTION:waka-->
