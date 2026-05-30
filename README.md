@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Jensen</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 20.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,441 Contributions in the Year 2026
+> 🏆 1,443 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -20,20 +20,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5019 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-🌆 Daytime                9660 commits        ████████░░░░░░░░░░░░░░░░░   32.99 % 
-🌃 Evening                10451 commits       █████████░░░░░░░░░░░░░░░░   35.69 % 
-🌙 Night                  4151 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+🌞 Morning                5020 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+🌆 Daytime                9660 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
+🌃 Evening                10453 commits       █████████░░░░░░░░░░░░░░░░   35.69 % 
+🌙 Night                  4156 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4617 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Tuesday                  4965 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Monday                   4617 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Tuesday                  4965 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
 Wednesday                6504 commits        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
 Thursday                 5555 commits        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
 Friday                   4635 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Saturday                 2104 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Saturday                 2112 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 Sunday                   901 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 
@@ -44,25 +44,26 @@ Sunday                   901 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 2 hrs 46 mins       ██████████████░░░░░░░░░░░   56.22 % 
-Python                   1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-SQL                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Markdown                 6 hrs               █████████████░░░░░░░░░░░░   51.08 % 
+Python                   2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Other                    1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Lua                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 21 mins       ██████████████████████░░░   88.22 % 
-VS Code                  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Cursor                   10 hrs 32 mins      ██████████████████████░░░   89.67 % 
+VS Code                  1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🐱‍💻 Projects: 
-xylem                    2 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.37 % 
-streamline               1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-tests                    43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-docs                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-solana-models            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+xylem                    6 hrs 19 mins       █████████████░░░░░░░░░░░░   53.82 % 
+streamline               2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+dev                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+tests                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+docs                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 💻 Operating System: 
-Mac                      4 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +83,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jensenity/jensenity/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 19:50:44 UTC
+ Last Updated on 30/05/2026 19:18:57 UTC
 <!--END_SECTION:waka-->
