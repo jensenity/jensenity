@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 20.8 kB Used in GitHub's Storage 
+> 📦 20.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1,454 Contributions in the Year 2026
  > 
@@ -15,23 +15,23 @@
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5038 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-🌆 Daytime                9513 commits        ████████░░░░░░░░░░░░░░░░░   32.68 % 
-🌃 Evening                10420 commits       █████████░░░░░░░░░░░░░░░░   35.80 % 
-🌙 Night                  4135 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+🌞 Morning                5039 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+🌆 Daytime                9556 commits        ████████░░░░░░░░░░░░░░░░░   32.78 % 
+🌃 Evening                10420 commits       █████████░░░░░░░░░░░░░░░░   35.74 % 
+🌙 Night                  4136 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4576 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Tuesday                  4991 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Wednesday                6429 commits        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Thursday                 5521 commits        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Friday                   4629 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Saturday                 2113 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Monday                   4576 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Tuesday                  4991 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Wednesday                6430 commits        ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Thursday                 5521 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Friday                   4673 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Saturday                 2113 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 Sunday                   847 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 
@@ -42,25 +42,25 @@ Sunday                   847 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 4 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.69 % 
-Python                   4 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.01 % 
-YAML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Terraform                58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Markdown                 4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.68 % 
+Python                   3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.92 % 
+Terraform                58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 27 mins       ██████████████████░░░░░░░   73.49 % 
-Claude Code              1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-VS Code                  1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Cursor                   7 hrs 48 mins       ██████████████████░░░░░░░   72.53 % 
+Claude Code              1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+VS Code                  1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 
 🐱‍💻 Projects: 
-xylem                    6 hrs 29 mins       ██████████████░░░░░░░░░░░   56.44 % 
-streamline               3 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   34.74 % 
-data-platform-ops        56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-streamline-runtime       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+xylem                    5 hrs 52 mins       ██████████████░░░░░░░░░░░   54.62 % 
+streamline               3 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.94 % 
+data-platform-ops        56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+streamline-runtime       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Mac                      11 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,5 +80,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jensenity/jensenity/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2026 19:46:15 UTC
+ Last Updated on 09/06/2026 19:45:38 UTC
 <!--END_SECTION:waka-->
